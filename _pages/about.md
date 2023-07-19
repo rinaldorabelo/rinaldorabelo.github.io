@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Rinaldo Rabelo"
+title: "Sobre"
 excerpt: "Desevolvedor"
 author_profile: true
 redirect_from: 
