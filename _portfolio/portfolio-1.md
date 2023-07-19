@@ -1,6 +1,6 @@
 ---
 title: "Petshop Aegis"
-excerpt: "Sistema básico de gerenciamento de cadastros<br/><img src='/images/500x300.png'>"
+excerpt: "Sistema básico de gerenciamento de cadastros<br/>"
 collection: portfolio
 ---
 
