@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Dev Page"
-excerpt: "About me"
+title: "Rinaldo Rabelo"
+excerpt: "Desevolvedor"
 author_profile: true
 redirect_from: 
   - /about/
